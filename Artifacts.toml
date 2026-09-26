@@ -1,0 +1,68 @@
+[[LanceDB_C]]
+arch = "aarch64"
+git-tree-sha1 = "63a530dd1c6606891b15b9420effc8192983e672"
+os = "macos"
+
+    [[LanceDB_C.download]]
+    sha256 = "c28e200eddf93f078929581aaa98d50763e202a4426cfd69ec45d56119fadf50"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.aarch64-apple-darwin.tar.gz"
+[[LanceDB_C]]
+arch = "aarch64"
+git-tree-sha1 = "3b0737aeb2d52d51364f19d7107521a51e866095"
+libc = "glibc"
+os = "linux"
+
+    [[LanceDB_C.download]]
+    sha256 = "9a4ce809a7f2869f06c2afb7f14ef2515471e57f9c9a09a20b11790a04ff86dd"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.aarch64-linux-gnu.tar.gz"
+[[LanceDB_C]]
+arch = "aarch64"
+git-tree-sha1 = "52b73a0ebbdc6774625b691f8337d4d60598d28a"
+libc = "musl"
+os = "linux"
+
+    [[LanceDB_C.download]]
+    sha256 = "ced997ce9a43cbdaa300df8c7e475fdb06d033e5320ef50ff334ef7976418add"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.aarch64-linux-musl.tar.gz"
+[[LanceDB_C]]
+arch = "x86_64"
+git-tree-sha1 = "49ef37e1da95997564118d9d9719a5e2c7a7bcdb"
+os = "macos"
+
+    [[LanceDB_C.download]]
+    sha256 = "17328efc17d88aa1b064aa3fda50bb4aaaa84ae44735ddc8cc94db2d8b6fa907"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.x86_64-apple-darwin.tar.gz"
+[[LanceDB_C]]
+arch = "x86_64"
+git-tree-sha1 = "36081095d56299a8728865d712806a548bcc53a7"
+libc = "glibc"
+os = "linux"
+
+    [[LanceDB_C.download]]
+    sha256 = "82a668b745f1359557a04e16bc5a5bb2a69d50d2a5ae8c831263d1d8da3f4cab"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.x86_64-linux-gnu.tar.gz"
+[[LanceDB_C]]
+arch = "x86_64"
+git-tree-sha1 = "005b8579a342d366851528165e2f74b94fe0131c"
+libc = "musl"
+os = "linux"
+
+    [[LanceDB_C.download]]
+    sha256 = "2b6f5d4edf7b13e5f80b79cbe02c46946fa0a93ef8847453bb5a3458dfd579c9"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.x86_64-linux-musl.tar.gz"
+[[LanceDB_C]]
+arch = "x86_64"
+git-tree-sha1 = "37fd73011e424be4022e3d1ff934b6434ed62c3e"
+os = "freebsd"
+
+    [[LanceDB_C.download]]
+    sha256 = "cfa1000ddb322e7fa9e9cb5150e7239fbcbe25a59276a8cbc6f66009022ab00e"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.x86_64-unknown-freebsd.tar.gz"
+[[LanceDB_C]]
+arch = "x86_64"
+git-tree-sha1 = "f214ac5996184ed4b842eefe777418e7bf39e72e"
+os = "windows"
+
+    [[LanceDB_C.download]]
+    sha256 = "8bf9f70f63a8a29213bcfae8aa9983aa9c3549d38ba1fe2b291585d2cdb3d698"
+    url = "https://github.com/JuliaBinaryWrappers/LanceDB_C_jll.jl/releases/download/LanceDB_C-v0.33.0+0/LanceDB_C.v0.33.0.x86_64-w64-mingw32.tar.gz"
